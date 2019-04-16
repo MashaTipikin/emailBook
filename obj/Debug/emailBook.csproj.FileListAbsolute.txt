@@ -1,0 +1,33 @@
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\bin\Debug\emailBook.exe.config
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\bin\Debug\emailBook.exe
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\bin\Debug\emailBook.pdb
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.csprojAssemblyReference.cache
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.Form1.resources
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.Form2.resources
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.Properties.Resources.resources
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.csproj.GenerateResource.cache
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.csproj.CoreCompileInputs.cache
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.exe
+C:\Users\masha\Documents\OMIS 449\Homework\emailBook\obj\Debug\emailBook.pdb
+C:\Users\victor\Desktop\emailBook\bin\Debug\emailBook.exe.config
+C:\Users\victor\Desktop\emailBook\bin\Debug\emailBook.exe
+C:\Users\victor\Desktop\emailBook\bin\Debug\emailBook.pdb
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.csprojAssemblyReference.cache
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.Form1.resources
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.Form2.resources
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.Properties.Resources.resources
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.csproj.GenerateResource.cache
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.exe
+C:\Users\victor\Desktop\emailBook\obj\Debug\emailBook.pdb
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\bin\Debug\emailBook.exe.config
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\bin\Debug\emailBook.exe
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\bin\Debug\emailBook.pdb
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.csprojAssemblyReference.cache
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.Form1.resources
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.Form2.resources
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.Properties.Resources.resources
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.csproj.GenerateResource.cache
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.csproj.CoreCompileInputs.cache
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.exe
+C:\Users\masha\Documents\OMIS 449\Homework\HW\emailBook\obj\Debug\emailBook.pdb

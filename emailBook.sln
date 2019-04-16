@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emailBook", "emailBook.csproj", "{864C6133-1C91-4178-9FB2-17C3C2DC9D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864C6133-1C91-4178-9FB2-17C3C2DC9D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864C6133-1C91-4178-9FB2-17C3C2DC9D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864C6133-1C91-4178-9FB2-17C3C2DC9D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864C6133-1C91-4178-9FB2-17C3C2DC9D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EBF099-7897-47F9-B4C8-EC458284061D}
+	EndGlobalSection
+EndGlobal
